@@ -1,0 +1,20 @@
+# Downloaded videos
+downloads/
+
+# Personal link lists, settings, and history
+saved-lists/*
+app/settings.json
+app/download-history.txt
+app/audio-history.txt
+
+# Too large for GitHub. FFmpeg's license text stays.
+tools/*.exe
+
+# Shortcut is rewritten for this PC
+*.lnk
+
+# Uploaded separately as a GitHub Release
+video_downloader.exe
+
+Thumbs.db
+desktop.ini
