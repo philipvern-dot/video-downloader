@@ -1,10 +1,14 @@
 # Video Downloader
 
+Version 1.0.1
+
 A Windows program that downloads videos and playlists as MP4 files, or audio only as MP3.
 
 Double-click **Video Downloader** in this folder. If that shortcut does nothing, open `app\launch.vbs` once. That starts the program and repairs the shortcut.
 
 Paste one link, several links, or a playlist. New files go in the `downloads` folder next to the program until you choose another folder. That choice is saved for the next run.
+
+Check for updates looks for a newer version on GitHub. Update downloads that version and opens the setup program. The setup replaces the installed copy and keeps your settings.
 
 ## Tools
 
